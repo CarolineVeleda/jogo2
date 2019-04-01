@@ -1,0 +1,10 @@
+1,guilherme,generooooo,20-12-2001
+3,frio,trriler,22-11-2001
+4,gelo,generooooo,20-12-2001
+5,agua,trriler,22-11-2001
+6,lava,trriler,22-11-2001
+7,terra,generooooo,20-12-2001
+9,calfogoor,trriler,22-11-2001
+11,notebook,trriler,22-11-2001
+12,celular,generooooo,20-12-2001
+33,calorina,trriler,22-11-2001
